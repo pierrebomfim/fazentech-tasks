@@ -1,8 +1,8 @@
-# Repositório Público - FazenTECH
-
-Material usado para o desenvolvimento de trabalho academico do curso de Análise e Desenvolvimento de Sistemas, que tem por obejetivo criar um sistema para gerenciamento de uma fazenda, utilizando-se de tecnologias integradas estudadas nas matérias do semestre.
+# Repositório Público - FazenTECH 
 
 <img align="right" src="images/cover-readme.jpg" width="200">
+
+Material usado para o desenvolvimento de trabalho academico do curso de Análise e Desenvolvimento de Sistemas, que tem por obejetivo criar um sistema para gerenciamento de uma fazenda, utilizando-se de tecnologias integradas estudadas nas matérias do semestre.
 
 ## Lista de tarefas de desenvolvimento ( 1º Sem)
 
