@@ -10,7 +10,7 @@ Material usado para o desenvolvimento de trabalho acadêmico do curso de Tecnolo
 
 ### Banco de Dados
  - [ ] Diagrama ER
- - [ ] DDL
+ - [x] DDL
  - [ ] DML
  - [ ] DQL
 ---
@@ -19,3 +19,5 @@ Material usado para o desenvolvimento de trabalho acadêmico do curso de Tecnolo
 ---
 ### Algoritmo de busca em Python
   - [ ] Busca Binária
+---
+### Git Page
