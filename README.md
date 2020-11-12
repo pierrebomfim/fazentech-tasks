@@ -1,5 +1,5 @@
 # Repositório Público - FazenTECH 
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/pierrebomfim/fazentech-tasks">
+
 
 <img align="right" src="images/cover-readme.jpg" width="200">
 
