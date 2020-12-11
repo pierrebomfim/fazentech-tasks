@@ -3,7 +3,10 @@
 
 <img align="right" src="images/cover-readme.jpg" width="200">
 
-Material usado para o desenvolvimento de trabalho acadêmico do curso de Tecnologia em Análise e Desenvolvimento de Sistemas, que tem por objetivo criar um sistema para gerenciamento de uma fazenda, utilizando-se de tecnologias integradas estudadas nas matérias do semestre.
+Material do trabalho acadêmico do curso de Tecnologia em Análise e Desenvolvimento de Sistemas.
+Tem por objetivo criar aplicar o conhecimento aprendido no semestre, integrando-os num único projeto.
+A proposta é final é desenvolver um sistema para gerenciamento de uma fazenda utilizando-se de tecnologias integradas.
+Nesse primeiro momento (1º Sem) será desenvolvido um banco de dados com SQLite3 e scripts em Python, para manipulação de dados e pesquisas.
 
 
 ## Lista de tarefas de desenvolvimento ( 1º Sem)
@@ -20,3 +23,4 @@ Material usado para o desenvolvimento de trabalho acadêmico do curso de Tecnolo
   - [ ] Busca Binária
 ---
 ### Git Page
+  - [ ] Interface
