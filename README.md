@@ -8,7 +8,7 @@ Material usado para o desenvolvimento de trabalho acadêmico do curso de Tecnolo
 ## Lista de tarefas de desenvolvimento ( 1º Sem)
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/pierrebomfim/fazentech-tasks">
 
-### Banco de Dados
+### Banco de Dados - 
  - [ ] Diagrama ER
  - [x] DDL
  - [ ] DML
