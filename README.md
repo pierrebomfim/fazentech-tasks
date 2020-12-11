@@ -22,5 +22,7 @@ Nesse primeiro momento (1º Sem) será desenvolvido um banco de dados com SQLite
   - [x] Inserção de dados no DB
   - [ ] Busca Binária
 ---
-### Git Page
+### Github Page
   - [ ] Interface
+
+#### Pesquisar sobre Django para desenvolvimento web
