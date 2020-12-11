@@ -9,16 +9,14 @@ Material usado para o desenvolvimento de trabalho acadêmico do curso de Tecnolo
 ## Lista de tarefas de desenvolvimento ( 1º Sem)
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/pierrebomfim/fazentech-tasks">
 
-### Banco de Dados - 
+### Banco de Dados - SQLite3
  - [ ] Diagrama ER
  - [x] DDL
  - [x] DML
  - [x] DQL
 ---
-### CRUD - Script em Python
+### Algoritmo em Python
   - [ ] Inserção de dados no DB
----
-### Algoritmo de busca em Python
   - [ ] Busca Binária
 ---
 ### Git Page
