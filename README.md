@@ -16,7 +16,7 @@ Material usado para o desenvolvimento de trabalho acadêmico do curso de Tecnolo
  - [x] DQL
 ---
 ### Algoritmo em Python
-  - [ ] Inserção de dados no DB
+  - [x] Inserção de dados no DB
   - [ ] Busca Binária
 ---
 ### Git Page
